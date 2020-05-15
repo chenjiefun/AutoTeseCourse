@@ -1,7 +1,0 @@
-111111
-
-这是master分支上的内容,这是branch1上面添加的内容
-
-version1
-
-version2
